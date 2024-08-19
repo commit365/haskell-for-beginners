@@ -146,7 +146,7 @@ This course is structured to provide a logical progression through Haskell conce
 
 ## Getting Started
 
-To begin the course, start with the first module and progress through each section sequentially. Each module contains video lectures, code examples, and exercises. We recommend completing all exercises and projects to solidify your understanding.
+To begin the course, start with the first module and progress through each section sequentially. Each module contains lessons, code examples, and exercises. We recommend completing all exercises and projects to solidify your understanding.
 
 ## Community and Support
 
