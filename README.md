@@ -1,8 +1,8 @@
-# Comprehensive Haskell Programming Course
+# Haskell for Beginners Programming Course
 
 ## Introduction
 
-Welcome to the Comprehensive Haskell Programming Course! This course is designed to take you from a complete beginner with no prior programming experience to a proficient Haskell developer. Whether you're interested in functional programming, looking to expand your skill set, or aiming to leverage Haskell's power in your projects, this course has you covered.
+Welcome to the Haskell for Beginners Programming Course! This course is designed to take you from a complete beginner with no prior programming experience to a proficient Haskell developer. Whether you're interested in functional programming, looking to expand your skill set, or aiming to leverage Haskell's power in your projects, this course has you covered.
 
 ## Course Overview
 
